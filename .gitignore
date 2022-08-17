@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+text/
+*.bz2
+*txt
+w2v-models/
